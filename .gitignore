@@ -1,0 +1,12 @@
+# OS / editor 杂物
+Thumbs.db
+desktop.ini
+.DS_Store
+*.swp
+*~
+.idea/
+.vscode/
+
+# 临时草稿（推演过程稿，不入库）
+/scratch/
+*.tmp
