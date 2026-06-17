@@ -1,0 +1,9 @@
+# 统一行尾，避免跨设备（Windows/其他）出现"行尾符幻影"虚假改动
+* text=auto eol=lf
+
+# 二进制图片不做行尾转换
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.pdf binary
