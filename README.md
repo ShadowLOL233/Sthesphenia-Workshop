@@ -22,7 +22,8 @@ tharsphennia/
     <国名>.md           每个 NPC 国家一份档案
   nations-table.md     所有国家横向对比主表
   relations.md         外交关系矩阵
-  timeline.md          按时间排序的已发生事件 + 因果链
+  timeline.md          世界内历史：按时间排序的已发生事件 + 因果链
+  工作日志.md          开发/元进度日志（仓库建设与推演准备，区别于世界内 timeline）
   conflicts/
     _template.md       军事冲突推演模板
     <战役名>.md         单场冲突的兵力、过程、结果、政治余波
