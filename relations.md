@@ -19,7 +19,8 @@
 |---|---|---|
 | 欧西尼亚洲内 | [`relations/oseania.md`](relations/oseania.md) | 莫—科轴、冬之桥、天下四分、其他欧西尼亚势力 |
 | 艾尔托尼亚洲内（旧称克留埃斯） | [`relations/艾尔托尼亚.md`](relations/艾尔托尼亚.md) | 艾尔托尼亚联盟+帝国阵线、大洋联邦、极地工程协会 |
-| 跨大陆 & 岛屿集团 | [`relations/cross-continent.md`](relations/cross-continent.md) | 名义同盟、铁血→黑锋、蜂巢联盟、千月暮雪孤立、待归位 |
+| 洛德法尼亚（弗里亚塔尤因）洲内 | [`relations/洛德法尼亚.md`](relations/洛德法尼亚.md) | 克里希瓦里亚—瓦夏世仇、克里+格瑞芬反黑锋轴心、克里→黑锋压制、同盟网之结 |
+| 跨大陆 & 岛屿集团 | [`relations/cross-continent.md`](relations/cross-continent.md) | 名义同盟、铁血→黑锋、艾→克监察、蜂巢联盟、千月暮雪孤立、待归位 |
 
 > 新增其他大陆（艾尔托尼亚/瓦尔德尼亚/洛瑟尼亚/弗里亚塔尤因/西弗洛菲亚斯等）的洲内关系时，按需新建 `relations/<洲>.md` 并在此登记。
 
